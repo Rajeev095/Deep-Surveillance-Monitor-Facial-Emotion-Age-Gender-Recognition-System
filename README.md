@@ -3,10 +3,10 @@ Computer Vision module for detecting emotion, age and gender of a person in any 
 
 # Screenshots
 ### Detect Emotion, Age, Gender in Any Image!
-<img width="600px" src="https://github.com/Rajeev095/Deep-Surveillance-Monitor-Facial-Emotion-Age-Gender-Recognition-System/output_images/meet.jpg">
+<img width="600px" src="https://github.com/Rajeev095/Deep-Surveillance-Monitor-Facial-Emotion-Age-Gender-Recognition-System/blob/main/output_images/meet.jpg">
 
 ### Detect Emotion, Age, Gender in Any Video!
-<img width="600px" src="https://github.com/kaushikjadhav01/Deep-Surveillance-Monitor-Facial-Emotion-Age-Gender-Recognition-System/blob/master/output_video1.gif">
+<img width="600px" src="https://github.com/Rajeev095/Deep-Surveillance-Monitor-Facial-Emotion-Age-Gender-Recognition-System/blob/main/output_images/output_video1.gif">
 
 ### Detect Emotion, Age, Gender in Webcam!
 <img width="600px" src="https://github.com/kaushikjadhav01/Deep-Surveillance-Monitor-Facial-Emotion-Age-Gender-Recognition-System/blob/master/output_webcam.PNG">
