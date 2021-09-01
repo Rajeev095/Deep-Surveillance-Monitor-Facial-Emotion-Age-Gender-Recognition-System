@@ -3,7 +3,7 @@ Computer Vision module for detecting emotion, age and gender of a person in any 
 
 # Screenshots
 ### Detect Emotion, Age, Gender in Any Image!
-<img width="600px" src="https://github.com/kaushikjadhav01/Deep-Surveillance-Monitor-Facial-Emotion-Age-Gender-Recognition-System/blob/master/output_images/meet.jpg">
+<img width="600px" src="https://github.com/Rajeev095/Deep-Surveillance-Monitor-Facial-Emotion-Age-Gender-Recognition-System/output_images/meet.jpg">
 
 ### Detect Emotion, Age, Gender in Any Video!
 <img width="600px" src="https://github.com/kaushikjadhav01/Deep-Surveillance-Monitor-Facial-Emotion-Age-Gender-Recognition-System/blob/master/output_video1.gif">
@@ -41,12 +41,3 @@ More information can be found <a href="https://www.pyimagesearch.com/2017/03/20/
   <li>On commmand prompt, run <b>jupter notebook</b></li>
   <li>Open and run my jupyter notebook</li>
 </ol>
-
-# Authors
-## Kaushik Jadhav
-<ul>
-<li>Github:https://github.com/kaushikjadhav01</li>
-<li>Medium:https://medium.com/@kaushikjadhav01</li>
-<li>LinkedIn:https://www.linkedin.com/in/kaushikjadhav01/</li>
-<li>Portfolio:http://kaushikjadhav01.github.io/</li>
-</ul>
